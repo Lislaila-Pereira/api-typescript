@@ -1,0 +1,1 @@
+DATABASE_URL="mongodb+srv://<SEU-USUARIO>:<SUA-SENHA>@<NOME-BD>.19kvy.mongodb.net/<NOME-BD>?retryWrites=true&w=majority&appName=<NOME-BD>"
